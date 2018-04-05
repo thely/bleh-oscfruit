@@ -1,0 +1,11 @@
+{
+  "name": "bleh-oscfruit",
+  "version": "0.0.1",
+  "description": "Interfaces the Bluefruit with Max MSP. A Frankenstein of Roman Random's ble-osc and Adafruit's Bluefruit desktop client.",
+  "main": "bleh-oscfruit.js",
+  "author": "Becky Brown",
+  "dependencies": {
+    "noble": "^1.8.1",
+    "osc": "^2.2.0"
+  }
+}
